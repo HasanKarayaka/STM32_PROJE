@@ -1,0 +1,5 @@
+../Src/stm32g0xx_it.c:4:8:NMI_Handler	8	static
+../Src/stm32g0xx_it.c:11:8:HardFault_Handler	8	static
+../Src/stm32g0xx_it.c:18:8:SVC_Handler	8	static
+../Src/stm32g0xx_it.c:22:8:PendSV_Handler	8	static
+../Src/stm32g0xx_it.c:26:8:SysTick_Handler	8	static
